@@ -28,7 +28,7 @@ const Example = () => (
       <Tooltip>
         <TooltipTrigger asChild>
           <Avatar>
-            <AvatarImage src="https://tomaslonnblad.github.io/j.jpg" />
+            <AvatarImage src="https://tomaslonnblad.github.io/mountains.jpg" />
             <AvatarFallback>CN</AvatarFallback>
           </Avatar>
         </TooltipTrigger>
