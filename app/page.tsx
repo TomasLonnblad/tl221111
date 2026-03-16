@@ -17,7 +17,7 @@ const Example = () => (
       <Tooltip>
         <TooltipTrigger asChild>
           <Avatar>
-            <AvatarImage src="https://github.com/haydenbleasel.png" />
+            <AvatarImage src="https://tomaslonnblad.github.io/7.jpg" />
             <AvatarFallback>HB</AvatarFallback>
           </Avatar>
         </TooltipTrigger>
@@ -28,7 +28,7 @@ const Example = () => (
       <Tooltip>
         <TooltipTrigger asChild>
           <Avatar>
-            <AvatarImage src="https://github.com/shadcn.png" />
+            <AvatarImage src="https://tomaslonnblad.github.io/j.jpg" />
             <AvatarFallback>CN</AvatarFallback>
           </Avatar>
         </TooltipTrigger>
@@ -39,7 +39,7 @@ const Example = () => (
       <Tooltip>
         <TooltipTrigger asChild>
           <Avatar>
-            <AvatarImage src="https://github.com/leerob.png" />
+            <AvatarImage src="https://tomaslonnblad.github.io/n.jpg" />
             <AvatarFallback>LR</AvatarFallback>
           </Avatar>
         </TooltipTrigger>
@@ -50,7 +50,7 @@ const Example = () => (
       <Tooltip>
         <TooltipTrigger asChild>
           <Avatar>
-            <AvatarImage src="https://github.com/serafimcloud.png" />
+            <AvatarImage src="https://tomaslonnblad.github.io/22.jpg" />
             <AvatarFallback>SC</AvatarFallback>
           </Avatar>
         </TooltipTrigger>
